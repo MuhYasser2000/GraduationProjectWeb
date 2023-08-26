@@ -1,0 +1,1 @@
+alert("if that is the first time click at contact us")
